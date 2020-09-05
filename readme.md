@@ -68,6 +68,6 @@ https://www.htmlcsscolor.com/hex/43464B
 
 
 
-## Stopped at Joining Images 50:05 chapter 6
+## Stopped at Contour/Shape detection 01:15:40 chapter 8
 
 https://www.murtazahassan.com/courses/learn-opencv-in-3-hours/lesson/chapter-6-joining-images/

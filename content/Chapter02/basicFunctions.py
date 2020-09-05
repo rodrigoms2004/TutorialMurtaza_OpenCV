@@ -4,6 +4,8 @@ import numpy as np
 img = cv2.imread('../Resources/lena.png')
 kernel = np.ones((5,5), np.uint8) # filter
 print(kernel, '\n')
+print('\n', img.shape)
+print('\n', type(img))
 
 imgGray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 imgBlur = cv2.GaussianBlur(imgGray, (7, 7), 0)
